@@ -1,0 +1,29 @@
+- inverted: 
+  img: icon-despre.jpeg
+  name: Viziunea și misiunea noastră
+  info: "Înființat cu scopul de răspândi educația STEAM, Clubul de Electronică al Colegiului Național „Ștefan cel Mare” Suceava a devenit echipa de robotică Electrified Titans, care mai târziu a evoluat în Royal Engineers. Învățăm pe parcurs, aflăm lucruri noi, cunoaștem persoane din domeniu, iar în final, vom culege roadele muncii noastre."
+  # link: "/2023/despre"
+
+# - inverted: timeline-inverted
+#   img: icon-agenda.jpeg
+#   name: Agenda
+#   info: Check out the agenda
+#   link: /2023/agenda
+
+- inverted: timeline-inverted
+  img: icon-team.jpeg
+  name: Echipa
+  info: "Prietenie, colaborare, comunicare - nu mereu au fost prezente în echipa noastră, dar mereu ne-au ținut uniți și atrași de același obiectiv: victoria, educația și recunoașterea roboticii în mediul ce ne înconjoară."
+  # link: /2023/team
+
+- inverted:
+  img: robot.png
+  name: Robotul nostru
+  info: "De la prototip la versiunea finală demnă de a participa la competițiile naționale, de la o simplă roată la un sistem complex, de la o simplă atingere a unui buton la o întreagă perioadă de autonomous, robotul nostru a evoluat frumos, am putea spune noi. Dar nu ar fi ajuns ce este acum fără ajutor."
+  # link: /2023/faqs
+
+- inverted: timeline-inverted
+  img: ftc.png
+  name: FIRST® Tech Challange
+  info: "FIRST® este o comunitate de robotică care pregătește tinerii pentru viitor printr-o suită de programe de robotică incluzive, bazate pe echipe, pentru vârstele 4-18. Îmbunătățite de un sistem global de sprijin de voluntari, educatori și sponsori, echipele operează sub un set semnătură de FIRST Core Values pentru a efectua cercetări, strânge de fonduri, proiecta, construi și prezintă realizările lor în timpul provocărilor anuale."
+  # link: /2023/venue

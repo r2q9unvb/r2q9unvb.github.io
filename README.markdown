@@ -12,7 +12,7 @@ Big thanks to the creator of Agency as this theme would not be possible without 
 - Event's title, location, and date
 - Welcoming remark section with video
 - Speaker with name, title, pop up profile section
-- About section with options to navigate to subpages
+- despre section with options to navigate to subpages
 - Event Sponsors' pictures section
 - Contact Us section
   - Refer to [Formspree](https://formspree.io/) on how to setup the contact form.
@@ -28,14 +28,14 @@ Two different design:
 ### FAQs Page
 - Just a typical FAQs page
 ### Mission, Vision, and Objectives Page
-- Sections to talk about mission, vision, objectives, and history about your event
+- Sections to talk despre mission, vision, objectives, and history despre your event
 ### Register Page
 - A page to redirect to a sign up page
 ### More features
-- Google Analytics built in (replace `UA-xxxxxxxx-x` with your personal analytics verification key in `_includes/2016_data/head.html`)
+- Google Analytics built in (replace `UA-xxxxxxxx-x` with your personal analytics verification key in `_includes/2023_data/head.html`)
 - SEO (check `_config.yml`)
 - Customized 404 Page Not Found Page
-- Designed to be futureproof as you can create a subpages for each year (eg. YOUR-LINK.github.io/2015, YOUR-LINK.github.io/2016, etc)
+- Designed to be futureproof as you can create a subpages for each year (eg. YOUR-LINK.github.io/2015, YOUR-LINK.github.io/2023, etc)
 - Header with icon logo defined, but removed from source code. 
 - Website logo in SVG defined, but removed from source code.
 - Display PDF from Google Drive
@@ -46,16 +46,16 @@ Two different design:
 3. Then, install Jekyll Sitemap and Jekyll SEO gems by using the command `gem install jekyll-sitemap` and `gem install jekyll-seo-tag`.
 4. Start your localhost server by using the command `jekyll serve`. Make sure that you are at the root directory of your folder before using this command.
 5. Your site should be accessible at `localhost:4000`.
-6. For additional information about Jekyll, refer to the [official website](http://jekyllrb.com/). 
+6. For additional information despre Jekyll, refer to the [official website](http://jekyllrb.com/). 
 
 _Note: If you forked it and edited `_config.yml` via the online editor on Github, the Github pages may not work. In that case, you will make any changes (add a new line, etc) and push the changes from your local machine via CLI or GUI git._
 
 ## Files Structure
-- The main stylesheet is stored `/css/2016_style`. Both `2016` and `2017` are sharing the same stylesheet.
-- In `/css/2016_style/img` you will find where the pictures in `/2016` are stored at. You will find the images of speakers in `/css/2017_style/img`. This setup is to ensure that we can easily to move from year to year by creating new folders.
-- `_2016_pages` and `_2017_pages` are the folders that store subpages.
-- `_2016_data` and `_2017_data` are the folders that store each sections in home page. Those sections are can be removed by removing or commenting out the `include` code in `_layout/2016_home.html` or `_layout/2017_home.html`.
-- `_data/twenty_16/` and `_data/twenty_17/` contains `data` files for agenda, faqs, home about section data, speakers, and team members information. The data file is in the format of `.yml`. The reason why the folders are named `twenty_16` and `twenty_17` are due to liquid syntax will throw errors if the name contains integer. 
+- The main stylesheet is stored `/css/2023_style`. Both `2023` and `2017` are sharing the same stylesheet.
+- In `/css/2023_style/img` you will find where the pictures in `/2023` are stored at. You will find the images of speakers in `/css/2017_style/img`. This setup is to ensure that we can easily to move from year to year by creating new folders.
+- `_2023_pages` and `_2017_pages` are the folders that store subpages.
+- `_2023_data` and `_2017_data` are the folders that store each sections in home page. Those sections are can be removed by removing or commenting out the `include` code in `_layout/2023_home.html` or `_layout/2017_home.html`.
+- `_data/twenty_16/` and `_data/twenty_17/` contains `data` files for agenda, faqs, home despre section data, speakers, and team members information. The data file is in the format of `.yml`. The reason why the folders are named `twenty_16` and `twenty_17` are due to liquid syntax will throw errors if the name contains integer. 
 - In order to view PDF correctly, sharing setting in Google Drive must set to "Public on the web".
 
 ## Enjoy!

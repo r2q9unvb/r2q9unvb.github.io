@@ -13,13 +13,13 @@
 - inverted: timeline-inverted
   img: icon-team.jpeg
   name: Echipa
-  info: "Prietenie, colaborare, comunicare - nu mereu au fost prezente în echipa noastră, dar mereu ne-au ținut uniți și atrași de același obiectiv: victoria, educația și recunoașterea roboticii în mediul ce ne înconjoară."
+  info: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
   # link: /2023/team
 
 - inverted:
   img: robot.png
   name: Robotul nostru
-  info: "De la prototip la versiunea finală demnă de a participa la competițiile naționale, de la o simplă roată la un sistem complex, de la o simplă atingere a unui buton la o întreagă perioadă de autonomous, robotul nostru a evoluat frumos, am putea spune noi. Dar nu ar fi ajuns ce este acum fără ajutor."
+  info: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
   # link: /2023/faqs
 
 - inverted: timeline-inverted
